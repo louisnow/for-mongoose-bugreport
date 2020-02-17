@@ -8,6 +8,8 @@ npm install
 npm start
 ```
 
+![Image](../blob/master/image.png?raw=true)
+
 This works in Mongoose 4,
 To verify
 
