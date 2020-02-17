@@ -1,7 +1,7 @@
 Default values are not populated for single nested subdocuments.
 However they do get updated for mongoose arrays
 
-To run code
+To run code, first set the connection string in the `.env` file
 
 ```
 npm install
