@@ -10,10 +10,10 @@ npm start
 
 ![Image](../master/image.png?raw=true)
 
-This works in Mongoose 4,
+This works in Mongoose <=5.4.19
 To verify
 
 ```
-npm install mongoose@4
+npm install mongoose@5.4.19
 npm start
 ```
