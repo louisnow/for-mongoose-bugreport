@@ -1,3 +1,7 @@
+# Demo repo for Mongoose bug
+
+See https://github.com/Automattic/mongoose/issues/8603
+
 Default values are not populated for single nested subdocuments.
 However they do get updated for mongoose arrays
 
